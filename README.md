@@ -1,0 +1,2 @@
+# venturus_frontend_test_2_devmode
+Dev_mode code
